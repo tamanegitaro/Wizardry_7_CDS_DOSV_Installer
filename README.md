@@ -1,23 +1,28 @@
-# Wizardry 7 CDS DOS/V版 DOSBox-X環境セットアップ手順
+# Wizardry 7: Crusaders of the Dark Savant DOS/V版 DOSBox-X環境セットアップ手順
 
 ## ■はじめに
-Wizardry 7 CDS DOS/V版をDOSBox-X環境で動作させる手順を説明します。<br>
-最終的には、Wizardry7.exeをダブルクリックするだけでゲームが起動できるようになります。<br>
-<img width="432" height="207" alt="image" src="https://github.com/user-attachments/assets/ce7b2687-1c99-468a-aa38-fda6d61fb3a1" />
 
-本手順では、DOSBox-Xの内蔵DOS環境を利用してWizardry 7 CDS DOS/V版を起動します。<br>
-IBM DOSなどの外部DOS、Pentium対応パッチは不要で、正規のゲームフロッピーディスク2枚だけで環境を構築できます。<br>
+このキットは、**Wizardry 7: Crusaders of the Dark Savant DOS/V版**を、<br>
+DOSBox-X環境で簡単にインストールして遊べるようにするためのセットアップキットです。<br>
 
-また、HDDイメージではなくGameフォルダをCドライブとして直接マウントするため、セーブデータ管理、Wizardry 6/8との連携も簡単です。<br>
-最終的には、Windows 11対応ゲームのようにWizardry7.exeをダブルクリックするだけで起動できる環境を目指します。<br>
-<img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/249d8e17-3066-4200-af02-08c56dd94492" />
+Wizardry 7 CDS DOS/V版のディスクA・ディスクBをイメージ化し、<br>
+DOSBox-Xと一緒に配置するだけで、インストールから起動環境の作成まで行えます。<br>
+IBM DOS、MS-DOSなどの外部DOSは不要です。Pentium対応パッチも必要ありません。<br>
 
+最終的には、Windows 11対応ゲームのようにWizardry7.exeを<br>
+ダブルクリックするだけで起動できる環境を目指します。<br>
 
-メニュー画面です。<br>
-また、ゲーム内でQUIT GAMEを選択すると、DOSBox-X自体も終了するようにしています。<br>
-<img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/3fb7103d-e1d8-42d2-ae90-998e07d6aa37" />
+<img width="432" height="207" alt="Wizardry7起動用フォルダ" src="https://github.com/user-attachments/assets/ce7b2687-1c99-468a-aa38-fda6d61fb3a1" />
 
+本キットでは、HDDイメージではなく **GameフォルダをCドライブとして直接マウント** します。<br>
+そのため、セーブデータのバックアップ、Wizardry 6/8との連携が簡単です。<br>
 
+<img width="480" height="300" alt="Wizardry7起動画面" src="https://github.com/user-attachments/assets/249d8e17-3066-4200-af02-08c56dd94492" />
+
+ゲームはフルスクリーンで起動します。<br>
+また、ゲーム内で **QUIT GAME** を選択すると、DOSBox-X自体も終了するようにしています。<br>
+
+<img width="480" height="300" alt="Wizardry7メニュー画面" src="https://github.com/user-attachments/assets/3fb7103d-e1d8-42d2-ae90-998e07d6aa37" />
 
 ## ■用意するもの
 ### ●Wizardry 7 CDS DOS/V版 フロッピーディスク2枚
@@ -26,11 +31,9 @@ wiz7A.img<br>
 wiz7B.img<br>
 <img width="518" height="244" alt="image" src="https://github.com/user-attachments/assets/f7b2d61d-7cdc-4c8f-a27f-7c6a09c3c58d" />
 
-
-
 ### ●USBフロッピーディスクドライブ
 古いものでも、メーカー製のドライブがおすすめです。<br>
-am〇zonなどで売っている新品の無メーカー／聞かないメーカーのドライブでは、<br>
+am〇zonなどで売っている新品の無メーカーのドライブでは、<br>
 イメージ化や書き込みの途中でエラーが出るものが多いです。<br>
 
 ### ●Rawwritewin 0.9.0
@@ -56,7 +59,7 @@ dosbox-x-mingw64-2026.05.02-portable.zip<br>
 解凍すると「mingw」と「mingw-sdl2」のフォルダが入っています。<br>
 そのうち「mingw-sdl2」フォルダの名前を「DOSBox-X」に変更して利用します。<br>
 
-### ●その他環境構築キット
+### ●環境構築キット
 Wizardry7_Setup_kit.zip<br>
 ここからダウンロードできます。<br>
 
