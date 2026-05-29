@@ -85,6 +85,11 @@ DOSBox-Xの中身はこのようになっています。<br>
 
 
 ## ■Wizardry 7: CDSのインストール
+この動画の流れでインストールを行います。<br>
+1:15の時点でインストールが完了して、そのあとはオープニングを流しています。<br>
+
+https://github.com/user-attachments/assets/e28eb8b2-b2f0-4755-b153-d11bc2c1483c
+
 
 1_Install_Wizardry7.batを実行します<br>
 <img width="526" height="368" alt="image" src="https://github.com/user-attachments/assets/1521ac84-e602-4262-9f9b-15535037d3bb" />
@@ -136,7 +141,9 @@ Enterキーを押すとシナリオヘッダーが書き換えられて終了し
 
 ●起動時の余計な表示を減らす<br>
 ●ゲーム終了時にDOSBox-Xも終了するように調整<br>
-以上でインストールは完了です。<br>
+
+以上でインストールは完了したので<br>
+続いてゲームの設定を行います。<br>
 
 ## ■DOSBox-Xの操作について
 今回のDOSBox-X環境では、操作を少し変更しています。<br>
