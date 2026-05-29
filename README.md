@@ -1,14 +1,14 @@
 # Wizardry 7 CDS DOS/V版 DOSBox-X環境セットアップ手順
 
 ## ■はじめに
-Wizardry 7 CDS DOS/V版をDOSBox-X環境で動作させる手順を説明します。
+Wizardry 7 CDS DOS/V版をDOSBox-X環境で動作させる手順を説明します。<br>
 最終的には、Wizardry7.exeをダブルクリックするだけでゲームが起動できるようになります。
 
 
-本手順では、DOSBox-Xの内蔵DOS環境を利用してWizardry 7 CDS DOS/V版を起動します。
+本手順では、DOSBox-Xの内蔵DOS環境を利用してWizardry 7 CDS DOS/V版を起動します。<br>
 IBM DOSなどの外部DOS、Pentium対応パッチは不要で、正規のゲームフロッピーディスク2枚だけで環境を構築できます。
 
-また、HDDイメージではなくGameフォルダをCドライブとして直接マウントするため、セーブデータ管理、Wizardry 6/8との連携も簡単です。
+また、HDDイメージではなくGameフォルダをCドライブとして直接マウントするため、セーブデータ管理、Wizardry 6/8との連携も簡単です。<br>
 最終的には、Windows 11対応ゲームのようにWizardry7.exeをダブルクリックするだけで起動できる環境を目指します。
 
 
