@@ -18,18 +18,18 @@ IBM DOSなどの外部DOS、Pentium対応パッチは不要で、正規のゲー
 
 
 ## ■用意するもの
-# ●Wizardry 7 CDS DOS/V版 フロッピーディスク2枚
+### ●Wizardry 7 CDS DOS/V版 フロッピーディスク2枚
 あらかじめ以下のファイル名でイメージ化しておきます。
 wiz7A.img
 wiz7B.img
 
 
 
-# ●USBフロッピーディスクドライブ
+### ●USBフロッピーディスクドライブ
 古いものでも、メーカー製のドライブがおすすめです。
 新品の中国製ドライブでは、イメージ化や書き込みの途中でエラーが出るものが多かったため、筆者は返品しました。
 
-# ●Rawwritewin 0.9.0
+### ●Rawwritewin 0.9.0
 https://github.com/emeric-martineau/rawwritewin
 フロッピーディスクをイメージ化したり、書き込んだりするソフトウェアです。
 要するに、フロッピーディスクを丸ごと読み出して、1つのimgファイルとして保存してくれます。
@@ -41,7 +41,7 @@ Createタブを開き、Image fileを指定します。
 Createボタンを押すと、フロッピーが読み出され、imgファイルとして保存されます。
 
 
-# ●DOSBox-X 2026.05.02
+### ●DOSBox-X 2026.05.02
 https://github.com/joncampbell123/dosbox-x/releases/tag/dosbox-x-v2026.05.02
 下の方にあるAssetsから、以下のファイルをダウンロードします。
 dosbox-x-mingw64-2026.05.02-portable.zip
@@ -50,13 +50,15 @@ dosbox-x-mingw64-2026.05.02-portable.zip
 解凍すると「mingw」と「mingw-sdl2」のフォルダが入っています。
 そのうち「mingw-sdl2」フォルダの名前を「DOSBox-X」に変更して利用します。
 
-# ●その他環境構築キット
+### ●その他環境構築キット
 Wizardry7_Setup_kit.zip
+ここからダウンロードできます。
 
 ## ■セットアップ手順
 Wizardry7_Setup_kit.zipを解凍します。
 その中に、各ファイルを以下のように配置します。
-●配置するもの
+
+### ●配置するもの
 DOSBox-Xフォルダ
 wiz7A.img
 wiz7B.img
@@ -109,6 +111,7 @@ Enterキーを押すとシナリオヘッダーの書き換えが終了します
 自動でWIZARDRY.BATにパッチが当たります。
 処理が終わったら、何かキーを押して終了します。
 このパッチでは、以下のような調整を行っています。
+
 ●起動時の余計な表示を減らす
 ●ゲーム終了時にDOSBox-Xも終了するように調整
 以上でインストールは完了です。
@@ -117,9 +120,7 @@ Enterキーを押すとシナリオヘッダーの書き換えが終了します
 今回のDOSBox-X環境では、操作を少し変更しています。
 
 ●ゲーム中にALT + F4でDOSBox-Xを終了します。
-
 ●ゲーム中にALT + ENTERでフルスクリーン切り替えができます。
-
 ●マウスが画面内にロックされた場合は、Ctrlを押しながらAltを押すと解除できます。
 
 この3つは覚えておくと便利です。
@@ -204,12 +205,12 @@ Game\DSAVANTV
 その後、ゲーム内でImportを選択してください。
 
 ## ■参考情報
-# ●【Wizardry #7】DOSBoxでDOS/V版CDS日本語版を起動させる動画！ 【Crusaders of the Dark Savant】
+### ●【Wizardry #7】DOSBoxでDOS/V版CDS日本語版を起動させる動画！ 【Crusaders of the Dark Savant】
 https://sp.nicovideo.jp/watch/sm40167252
 DOS/V版CDS日本語版をDOSBoxで起動させる手順が紹介されています。
 神動画です。
 
-# ●きよくら ならみ氏のブログ
+### ●きよくら ならみ氏のブログ
 https://kiyokura.hateblo.jp/entry/2024/03/10/171349
 DOSBox-XでWizardry 7 CDS DOS/V版を動作させる方法がまとめられています。
 本手順では、DOSバージョン設定、仮想HDDの空き容量を50MBに見せる設定、EFFECTSをSOUND BLASTERに設定する点などを参考にさせていただきました。
