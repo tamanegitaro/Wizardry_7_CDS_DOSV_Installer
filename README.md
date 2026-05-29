@@ -12,6 +12,7 @@ IBM DOS、MS-DOSなどの外部DOSは不要です。Pentium対応パッチも必
 最終的には、以下の動画のように、<br>
 Windows 11対応ゲームのようにWizardry7.exeを<br>
 ダブルクリックするだけで起動できる環境を目指します。<br>
+早送りも自由に行えるのでテンポよくゲームで遊べます。<br>
 ※動画では、利便性向上のためクイズ入力を簡略化した環境を使用しています。<br>
 
 https://github.com/user-attachments/assets/8243f7a4-1df0-4d0c-b2f3-d4551c5ddfbc
