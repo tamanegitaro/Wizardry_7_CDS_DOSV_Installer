@@ -9,8 +9,13 @@ Wizardry 7 CDS DOS/V版のディスクA・ディスクBをイメージ化し、<
 DOSBox-Xと一緒に配置するだけで、インストールから起動環境の作成まで行えます。<br>
 IBM DOS、MS-DOSなどの外部DOSは不要です。Pentium対応パッチも必要ありません。<br>
 
-最終的には、Windows 11対応ゲームのようにWizardry7.exeを<br>
+最終的には、以下の動画のように、<br>
+Windows 11対応ゲームのようにWizardry7.exeを<br>
 ダブルクリックするだけで起動できる環境を目指します。<br>
+※動画では、利便性向上のためクイズ入力を簡略化した環境を使用しています。<br>
+
+https://github.com/user-attachments/assets/8243f7a4-1df0-4d0c-b2f3-d4551c5ddfbc
+
 
 <img width="432" height="207" alt="Wizardry7起動用フォルダ" src="https://github.com/user-attachments/assets/ce7b2687-1c99-468a-aa38-fda6d61fb3a1" />
 
