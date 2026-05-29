@@ -1,6 +1,6 @@
 # 現在執筆中です。今しばらくお待ちください。
 
-# Wizardry 7: Crusaders of the Dark Savant DOS/V版 DOSBox-X環境セットアップ手順
+# Windows 11でWizardry 7: Crusaders of the Dark Savant DOS/V版(256色)が遊べるキット
 
 ## ■はじめに
 
