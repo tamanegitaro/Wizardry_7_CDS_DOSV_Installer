@@ -11,26 +11,20 @@ Wizardry 7 CDS DOS/V版のディスクA・ディスクBをイメージ化し、<
 DOSBox-Xと一緒にキットの中に配置するだけで、インストールから起動環境の作成まで簡単に行えます。<br>
 IBM DOS、MS-DOSなどの外部DOSは不要です。Pentium対応パッチも必要ありません。<br>
 
-最終的には、以下の動画のように、<br>
+最終的には、以下の動画の通り、<br>
 Windows 11対応ゲームのようにWizardry7.exeを<br>
 ダブルクリックするだけで起動できる環境を目指します。<br>
-早送りも自由に行えるのでテンポよくゲームで遊べます。<br>
 ※動画では、利便性向上のためクイズ入力を簡略化した環境を使用しています。<br>
 
-https://github.com/user-attachments/assets/8243f7a4-1df0-4d0c-b2f3-d4551c5ddfbc
+https://github.com/user-attachments/assets/7a45c42f-b920-4728-86e0-26e29420ff9f
 
-
-<img width="432" height="207" alt="Wizardry7起動用フォルダ" src="https://github.com/user-attachments/assets/ce7b2687-1c99-468a-aa38-fda6d61fb3a1" />
-
-本キットでは、HDDイメージではなく **GameフォルダをCドライブとして直接マウント** します。<br>
-そのため、セーブデータのバックアップ、Wizardry 6/8との連携が簡単です。<br>
-
-<img width="480" height="300" alt="Wizardry7起動画面" src="https://github.com/user-attachments/assets/249d8e17-3066-4200-af02-08c56dd94492" />
 
 ゲームはフルスクリーンで起動します。<br>
 また、ゲーム内で **QUIT GAME** を選択すると、DOSBox-X自体も終了するようにしています。<br>
+早送りも自由に行えるのでテンポよくゲームで遊べます。<br>
 
-<img width="480" height="300" alt="Wizardry7メニュー画面" src="https://github.com/user-attachments/assets/3fb7103d-e1d8-42d2-ae90-998e07d6aa37" />
+本キットでは、HDDイメージではなく **GameフォルダをCドライブとして直接マウント** します。<br>
+そのため、セーブデータのバックアップ、Wizardry 6/8との連携が簡単です。<br>
 
 ## ■用意するもの
 ### ●Wizardry 7 CDS DOS/V版 フロッピーディスク2枚
