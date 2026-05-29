@@ -82,7 +82,7 @@ DOSBox-Xの中身はこのようになっています。<br>
 <img width="516" height="473" alt="image" src="https://github.com/user-attachments/assets/cd4750ad-8085-4e23-afd4-293d3c5f3d9d" />
 
 
-## ■Wizardry 7のインストール
+## ■Wizardry 7: CDSのインストール
 
 1_Install_Wizardry7.batを実行します<br>
 <img width="526" height="368" alt="image" src="https://github.com/user-attachments/assets/1521ac84-e602-4262-9f9b-15535037d3bb" />
