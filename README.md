@@ -23,7 +23,7 @@ https://github.com/user-attachments/assets/7a45c42f-b920-4728-86e0-26e29420ff9f
 ゲーム内で **QUIT GAME** を選択すると、DOSBox-X自体も終了するようにしています。<br>
 動画内で早送りしていますが、早送りも自由に行えるのでテンポよくゲームで遊べます。<br>
 
-本キットでは、Gameフォルダ内にWizardry7 CDSのファイル全てが保存されています。<br>
+本キットでは、Gameフォルダ内にWizardry7 CDSのファイル全てが保存されます。<br>
 そのため、セーブデータのバックアップやWizardry 6/8との連携が簡単です。<br>
 
 ## ■用意するもの
