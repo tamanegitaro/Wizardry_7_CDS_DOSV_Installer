@@ -261,40 +261,10 @@ https://kiyokura.hateblo.jp/entry/2024/03/10/171349<br>
 DOSBox-XでWizardry 7 CDS DOS/V版を動作させる方法がまとめられています。<br>
 本手順では、DOSバージョン設定、仮想HDDの空き容量を50MBに見せる設定、EFFECTSをSOUND BLASTERに設定する点などを参考にさせていただきました。<br>
 
-
-## ■お願い
-当時アスキーから配布されていた「Wizardry 7 CDS DOS/V版 Pentium対応ディスク」を<br>
-お持ちの方がいらっしゃいましたら、ディスク内のDS.EXEのSHA256をご連絡いただけると大変助かります。<br>
-
-本手順では、DOSBox-Xの設定によりPentium対応パッチなしでも<br>
-起動できるようにしています。<br>
-ですが、正規ディスクからPentium対応DS.EXEを自作する方法を発見しました。<br>
-そこで当時公式に配布されていたPentium対応DS.EXEとは違うものが<br>
-生成されているのかが知りたいのです。<br>
-
-もし該当ディスクをお持ちの場合は、以下の手順でSHA256を確認できます。<br>
-
-●SHA256の確認方法
-1. 例としてPentium対応ディスク内のDS.EXEを、Windows上の以下の場所にコピーします。<br>
-C:\TEMP\DS.EXE<br>
-
-3. スタートボタンから「コマンド プロンプト」を検索して立ち上げます。<br>
-
-4. 以下のコマンドを実行します。<br>
-certutil -hashfile C:\TEMP\DS.EXE SHA256<br>
-
-5. 表示された64文字の英数字がSHA256です。<br>
-
-例：<br>
-C:\Users\taro>certutil -hashfile C:\TEMP\DS.EXE SHA256<br>
-SHA256 ハッシュ (対象 C:\TEMP\DS.EXE):<br>
-0123456789abcdef0123456789abcdef0123456789abcdef0123456789abcdef<br>
-CertUtil: -hashfile コマンドは正常に完了しました。<br>
-
-確認できた方は、以下のXアカウントまでハッシュ値をご連絡いただけると幸いです。<br>
-
-https://x.com/taro_tamanegi<br>
-
-報告いただいた方にはPentium対応ディスクの自作方法を伝授します。<br>
-
-よろしくお願いいたします。<br>
+## ■備考
+実機上のDOSなどで遊ぶ場合はPentium以降のCPUだと
+ゲーム起動と同時にエラーでOS自体が再起動してしまいます。
+その場合は、当時アスキーから配布されていた
+「Wizardry Pentium対応ディスク」か、
+これからお伝えする予定のPentium対応ディスク作成方法で
+パッチを作成しないと遊べないのでご注意ください。
