@@ -1,11 +1,13 @@
-# 現在執筆中です。今しばらくお待ちください。
-
 # Windows 11でWizardry 7: Crusaders of the Dark Savant DOS/V版(256色)が遊べるキット
 
 ## ■はじめに
 
 このキットは、**Wizardry 7: Crusaders of the Dark Savant DOS/V版**を、<br>
 DOSBox-X環境で簡単にインストールして遊べるようにするためのセットアップキットです。<br>
+
+本キットには
+・ゲーム本体は含まれません。
+・DOSBox-X本体は利用者が別途配置する必要があります。<br>
 
 Wizardry 7 CDS DOS/V版のディスクA・ディスクBをイメージ化し、<br>
 DOSBox-Xと一緒にキットの中に配置するだけで、インストールから起動環境の作成まで簡単に行えます。<br>
