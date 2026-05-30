@@ -66,6 +66,7 @@ dosbox-x-mingw64-2026.05.02-portable.zip<br>
 ### ●環境構築キット
 Wizardry7_Setup_kit.zip<br>
 ここからダウンロードできます。<br>
+[Wizardry7_Setup_kit.zip をダウンロード](https://github.com/tamanegitaro/Wizardry_7_CDS_DOSV_Installer/blob/main/Wizardry7_Setup_kit.zip)
 
 ## ■セットアップ手順
 Wizardry7_Setup_kit.zipを解凍します。<br>
