@@ -250,3 +250,6 @@ DOSBox-XでWizardry 7 CDS DOS/V版を動作させる方法がまとめられて�
 「Wizardry Pentium対応ディスク」か、<br>
 これからお伝えする予定のPentium対応ディスク作成方法で<br>
 パッチを作成しないと遊べないのでご注意ください。<br>
+
+DOSBox-X 2026.06.02 2026-06-02 09:05のSource codeはこちらです：<br>
+https://github.com/joncampbell123/dosbox-x/releases/tag/dosbox-x-v2026.06.02
