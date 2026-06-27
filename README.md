@@ -7,11 +7,11 @@ Windows 11の環境で簡単にインストールして遊べるようにする�
 
 本キットには<br>
 ・ゲーム本体は含まれません。<br>
-・DOSBox-X本体は利用者が別途配置する必要があります。<br>
 
 Wizardry 7 CDS DOS/V版のディスクA・ディスクBをイメージ化し、<br>
-DOSBox-Xと一緒にキットの中に配置するだけで、インストールから起動環境の作成まで簡単に行えます。<br>
+キットの中に配置するだけで、インストールから起動環境の作成まで簡単に行えます。<br>
 IBM DOS、MS-DOSなどの外部DOSは不要です。Pentium対応パッチも必要ありません。<br>
+DOSBox-X 2026.06.02もキットの中に含まれています。<br>
 
 最終的には、以下の動画の通り、<br>
 Windows 11対応ゲームのようにWizardry7.exeを<br>
@@ -53,17 +53,6 @@ Createタブを開き、Image fileを指定します。<br>
 Createボタンを押すと、フロッピーが読み出され、imgファイルとして保存されます。<br>
 <img width="271" height="321" alt="image" src="https://github.com/user-attachments/assets/22f256da-f957-4d6b-8c13-ca0e520ea9dd" />
 
-
-### ●DOSBox-X 2026.05.02
-https://github.com/joncampbell123/dosbox-x/releases/tag/dosbox-x-v2026.05.02<br>
-下の方にあるAssetsから、以下のファイルをダウンロードします。<br>
-dosbox-x-mingw64-2026.05.02-portable.zip<br>
-<img width="683" height="358" alt="image" src="https://github.com/user-attachments/assets/873660d2-9c82-48ee-8cb6-3532d540fb19" />
-
-
-解凍すると「mingw」と「mingw-sdl2」のフォルダが入っています。<br>
-そのうち「mingw-sdl2」フォルダの名前を「DOSBox-X」に変更して利用します。<br>
-
 ### ●環境構築キット
 Wizardry7_Setup_kit.zip<br>
 ここからダウンロードできます。<br>
@@ -74,19 +63,11 @@ Wizardry7_Setup_kit.zipを解凍します。<br>
 その中に、各ファイルを以下のように配置します。<br>
 
 ### ●配置するもの
-DOSBox-Xフォルダ<br>
 wiz7A.img<br>
 wiz7B.img<br>
 
-DOSBox-Xフォルダは、先ほど準備した「mingw-sdl2」をリネームしたものです。<br>
-
 これで準備は完了です。<br>
 <img width="521" height="347" alt="image" src="https://github.com/user-attachments/assets/06696996-01c7-4ca4-a26f-37eb6a9eb6d2" />
-
-
-DOSBox-Xの中身はこのようになっています。<br>
-<img width="516" height="473" alt="image" src="https://github.com/user-attachments/assets/cd4750ad-8085-4e23-afd4-293d3c5f3d9d" />
-
 
 ## ■Wizardry 7: CDSのインストール
 この動画の流れでインストールを行います。<br>
