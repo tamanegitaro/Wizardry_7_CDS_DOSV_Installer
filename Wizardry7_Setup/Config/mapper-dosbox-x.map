@@ -3,8 +3,8 @@ hand_reset "key 21 host"
 hand_reboot "key 5 host" 
 hand_loadmap 
 hand_quickrun "key 20 host" 
-hand_shutdown "key 66 mod1" "key 61 mod2" 
-hand_capmouse "key 67 mod1" "key 226 mod1" 
+hand_shutdown "key 61 mod2" "key 66 mod1" 
+hand_capmouse "key 226 mod1" "key 67 mod1" 
 hand_capkeyboard "key 68 mod1" 
 hand_fastedit 
 hand_copyall "key 62 mod1" 
@@ -16,7 +16,7 @@ hand_pause "key 72 host"
 hand_pauseints 
 hand_gui "key 6 host" 
 hand_mapper "key 16 host" 
-hand_fullscr "key 9 host" "key 40 mod2" 
+hand_fullscr "key 40 mod2" "key 9 host" 
 hand_resetsize "key 42 host" 
 hand_dbcssbcs 
 hand_autoboxdraw 
@@ -26,13 +26,13 @@ hand_resetcolor
 hand_pwrbutton 
 hand_togmenu "key 41 host" 
 hand_speedlock "key 53 host" 
-hand_speedlock2 "key 23 mod2" "key 79 host" 
+hand_speedlock2 "key 79 host" "key 23 mod2" 
 hand_speednorm "key 80 host" 
 hand_speedup "key 48 host" 
 hand_slowdown "key 47 host" 
 hand_editcycles 
-hand_savestate "key 22 host" 
-hand_loadstate "key 15 host" 
+hand_savestate "key 22 mod2" "key 22 host" 
+hand_loadstate "key 29 mod2" "key 15 host" 
 hand_showstate 
 hand_prevslot "key 54 host" 
 hand_nextslot "key 55 host" 
@@ -221,7 +221,7 @@ key_caret
 key_atsign 
 key_kor_hancha 
 key_kor_hanyong 
-mod_1 "key 224" "key 228" 
-mod_2 "key 226" "key 230" 
-mod_3 "key 225" "key 229" 
+mod_1 "key 228" "key 224" 
+mod_2 "key 230" "key 226" 
+mod_3 "key 229" "key 225" 
 host "key 68" 
