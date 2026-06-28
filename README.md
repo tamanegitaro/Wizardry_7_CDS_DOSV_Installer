@@ -54,7 +54,7 @@ Createボタンを押すと、フロッピーが読み出され、imgファイ�
 <img width="271" height="321" alt="image" src="https://github.com/user-attachments/assets/22f256da-f957-4d6b-8c13-ca0e520ea9dd" />
 
 ### ●環境構築キット
-Wizardry7_Setup_kit.zip<br>
+Wizardry_7_CDS_DOSV_Installer-main.zip<br>
 ここからダウンロードできます。<br>
 
 https://github.com/user-attachments/files/29434227/Wizardry_7_CDS_DOSV_Installer-main.zip
