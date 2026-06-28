@@ -57,7 +57,7 @@ Createボタンを押すと、フロッピーが読み出され、imgファイ�
 Wizardry7_Setup_kit.zip<br>
 ここからダウンロードできます。<br>
 
-https://github.com/user-attachments/files/29414314/Wizardry_7_CDS_DOSV_Installer-main.zip
+https://github.com/user-attachments/files/29434227/Wizardry_7_CDS_DOSV_Installer-main.zip
 
 ## ■セットアップ手順
 Wizardry7_Setup_kit.zipを解凍します。<br>
