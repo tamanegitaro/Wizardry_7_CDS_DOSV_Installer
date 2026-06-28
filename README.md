@@ -247,10 +247,12 @@ DOSBox-XでWizardry 7 CDS DOS/V版を動作させる方法がまとめられて�
 ## ■備考
 実機上のDOSなどで遊ぶ場合はPentium以降のCPUだと<br>
 ゲーム起動と同時にエラーでOS自体が再起動してしまいます。<br>
-その場合は、当時アスキーから配布されていた<br>
-「Wizardry Pentium対応ディスク」か、<br>
-これからお伝えする予定のPentium対応ディスク作成方法で<br>
-パッチを作成しないと遊べないのでご注意ください。<br>
+その場合は、以下のWizardry 7 DOS/V版 DS Unpackerで<br>
+DS.EXEのパッチを作成して当ててください。<br>
+https://github.com/tamanegitaro/Wizardry_7_CDS_DOSV_DS_Unpacker
+また、当時アスキーから配布されていた<br>
+「Wizardry Pentium対応ディスク」を使用することでも
+遊べるようになります。<br>
 
 DOSBox-X 2026.06.02 2026-06-02 09:05のSource codeはこちらです：<br>
 https://github.com/joncampbell123/dosbox-x/releases/tag/dosbox-x-v2026.06.02
