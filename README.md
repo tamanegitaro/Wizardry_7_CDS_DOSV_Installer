@@ -52,6 +52,8 @@ Driveの項目でフロッピードライブを選びます。<br>
 Createタブを開き、Image fileを指定します。<br>
 Createボタンを押すと、フロッピーが読み出され、imgファイルとして保存されます。<br>
 <img width="271" height="321" alt="image" src="https://github.com/user-attachments/assets/22f256da-f957-4d6b-8c13-ca0e520ea9dd" />
+ディスクAを「wiz7A.img」として、<br>
+ディスクBを「wiz7B.img」として保存します。<br>
 
 ### ●環境構築キット
 Wizardry_7_CDS_DOSV_Installer-main.zip<br>
