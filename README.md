@@ -29,6 +29,14 @@ https://github.com/user-attachments/assets/7a45c42f-b920-4728-86e0-26e29420ff9f
 本キットでは、Gameフォルダ内にWizardry7 CDSのファイル全てが保存されます。<br>
 そのため、セーブデータのバックアップやWizardry 6/8との連携が簡単です。<br>
 
+一方、今回のようなDOSBoxなどのエミュレーターではなく、
+Pentium以降のCPUのレトロパソコンで当時の雰囲気を楽しみながらプレイしたい場合は"Wizardry CDS Pentium対応ディスク"が必要です。<br>
+自力でそのディスクを作成することができるようになりました。こちらを参考にしてください。<br>
+https://github.com/tamanegitaro/Wizardry_7_CDS_DOSV_DS_Unpacker
+
+また、方眼紙に自力でマッピングをせずに、自動でマッピングしたい場合はAutomapを導入できます。<br>
+https://github.com/tamanegitaro/Wizardry_7_CDS_DOSV_DOSBOX-X_Automap
+
 ## ■用意するもの
 ### ●Wizardry 7 CDS DOS/V版 フロッピーディスク2枚
 あらかじめ以下のファイル名でイメージ化しておきます。<br>
